@@ -1,4 +1,4 @@
-# Contributing to {project name}
+# Contributing to symphonyoss/tableau-integration
 :+1: First off, thanks for taking the time to contribute! :+1:
 
 # Contributor License Agreement (CLA)
@@ -11,18 +11,20 @@ must be made with a
 in place, and there are [additional legal requirements](https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/75530375/Legal+Requirements)
 that must also be met.**
 
-As a result, PRs submitted to the {project name} project cannot be accepted until you have a CLA in place with the Foundation.
+As a result, PRs submitted to the symphonyoss/tableau-integration project cannot be accepted until you have a CLA in place with the Foundation.
+
+Need an ICLA? Unsure if you are covered under an existing CCLA? Email [help@finos.org](mailto:help@finos.org?subject=CLA)
 
 # Contributing Issues
 
 ## Prerequisites
 
-* [ ] Have you [searched for duplicates](https://github.com/{program name}/{project name}/issues?utf8=%E2%9C%93&q=)?  A simple search for exception error messages or a summary of the unexpected behaviour should suffice.
+* [ ] Have you [searched for duplicates](https://github.com/symphonyoss/tableau-integration/issues?utf8=%E2%9C%93&q=)?  A simple search for exception error messages or a summary of the unexpected behaviour should suffice.
 * [ ] Are you running the latest version?
 * [ ] Are you sure this is a bug or missing capability?
 
 ## Raising an Issue
-* Create your issue [here](https://github.com/{program name}/{project name}/issues/new).
+* Create your issue [here](https://github.com/symphonyoss/tableau-integration/issues/new).
 * New issues contain two templates in the description: bug report and enhancement request. Please pick the most appropriate for your issue, **then delete the other**.
   * Please also tag the new issue with either "Bug" or "Enhancement".
 * Please use [Markdown formatting](https://help.github.com/categories/writing-on-github/)
